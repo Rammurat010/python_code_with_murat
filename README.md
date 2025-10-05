@@ -1,1 +1,0 @@
-# python_code_with_murat
